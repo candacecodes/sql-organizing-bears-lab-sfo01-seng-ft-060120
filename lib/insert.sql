@@ -6,4 +6,5 @@ VALUES
 ("Sergeant Brown", 'F'), 
 ("Melissa", 'F'), 
 ("Grinch", 'F'), 
-("Wendy", 'F'); 
+("Wendy", 'F'),
+("", 'F'); 
