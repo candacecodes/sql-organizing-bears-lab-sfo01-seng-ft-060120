@@ -1,1 +1,1 @@
-INSERT INTO bears (gender) VALUES
+INSERT INTO bears (name, gender) VALUES
