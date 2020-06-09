@@ -7,4 +7,4 @@ VALUES
 ("Melissa", 'F'), 
 ("Grinch", 'F'), 
 ("Wendy", 'F'),
-("", 'F'); 
+("unnamed", 'F'); 
